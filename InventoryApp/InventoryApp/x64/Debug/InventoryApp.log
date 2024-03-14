@@ -1,0 +1,7 @@
+﻿  InventoryApp.cpp
+C:\Users\aarme\source\repos\InventoryApp\InventoryApp.cpp(167,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\aarme\source\repos\InventoryApp\InventoryApp.cpp(187,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\aarme\source\repos\InventoryApp\InventoryApp.cpp(205,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\aarme\source\repos\InventoryApp\InventoryApp.cpp(223,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\aarme\source\repos\InventoryApp\InventoryApp.cpp(241,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  InventoryApp.vcxproj -> C:\Users\aarme\source\repos\InventoryApp\x64\Debug\InventoryApp.exe
